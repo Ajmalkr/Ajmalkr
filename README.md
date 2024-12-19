@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajmalkr  
+- 👋 Hi, I’m AJMAL
 - 👀 I’m interested in developing mobile and web applications, exploring new technologies, and collaborating on open-source projects.  
 - 🌱 I’m currently learning advanced concepts in **Flutter**, **Python**, **PHP**, **Java**, and **Swift**.  
 - 💞️ I’m looking to collaborate on projects related to mobile app development, web development, and backend systems.  
